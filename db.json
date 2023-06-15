@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "Feedback z backendu",
+      "rating": 10,
+      "id": 5
+    },
+    {
+      "text": "Feedback z fronta ",
+      "rating": 5,
+      "id": 6
+    }
+  ]
+}
